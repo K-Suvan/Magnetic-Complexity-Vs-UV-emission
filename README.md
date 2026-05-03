@@ -7,7 +7,7 @@ UV intensity time series of solar active regions using Aditya-L1 SUIT NB03 (Mg I
 
 ***
 
-## What This Does
+## What is This Does
 
 This notebook extracts ultraviolet (UV) intensity time series from solar active regions (ARs) observed by the **SUIT NB03** filter (Mg II k, 2796 Å) aboard India's **Aditya-L1** spacecraft, cross-referenced with **HMI SHARP** magnetic field data from NASA's **SDO**.
 
